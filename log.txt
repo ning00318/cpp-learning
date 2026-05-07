@@ -1,0 +1,5 @@
+ERROR: database failed
+INFO: user login
+WARNING: cpu high
+INFO: file uploaded
+ERROR: timeout
